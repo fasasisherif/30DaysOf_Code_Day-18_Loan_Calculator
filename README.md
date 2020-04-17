@@ -1,1 +1,1 @@
-# 30DaysOf_Code_Day-18_Loan_Day
+# 30DaysOf_Code_Day-18_Loan_Calculator
